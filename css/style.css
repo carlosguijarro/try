@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to right, rgb(153, 214, 255), rgb(153, 255, 235));
+}
+.total-align{
+    text-align: center;
+    margin-top: 30%;
+    margin-bottom: 25%;
+}
